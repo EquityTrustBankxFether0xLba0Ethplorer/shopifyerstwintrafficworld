@@ -1,2 +1,0 @@
-# shopifyerstwintrafficworld
-Begin app
